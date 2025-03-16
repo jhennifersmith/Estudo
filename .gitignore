@@ -1,0 +1,42 @@
+# Visual Studio
+.vs/
+
+# Build results
+bin/
+obj/
+out/
+
+# User-specific files
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# Auto-generated files
+*.log
+*.tlog
+*.lastbuildstate
+*.cache
+*.csproj.user
+
+# NuGet Packages
+*.nupkg
+packages/
+project.lock.json
+project.assets.json
+
+# Rider (JetBrains)
+.idea/
+*.iml
+
+# Mac OS
+.DS_Store
+
+# Windows
+Thumbs.db
+Desktop.ini
+
+# Environment-specific
+.env
+secrets.json
+appsettings.Local.json
