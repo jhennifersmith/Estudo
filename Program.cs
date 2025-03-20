@@ -12,12 +12,10 @@ class Program
         // Fatorial.Fatoriall();
 
         //** Estrutura de Dados **//
-        // Pilha.Pilhaa();
-        // Fila.Filaa();
-        // Lista.Listaa();
-        // ListaEncadeada.ListaEncadeadaa();
-        // ArvoreBinaria.ArvoreBinariaa();
-        // ArvoreBinariaDeBusca.ArvoreBinariaDeBuscaa();
+        // PilhaVerificarBalanceamento.VerificarBalanceamento("((1+1)*2");
+        // PilhaDecimalParaBinario.DecimalParaBinario();
+        // PilhaReverterString.ReverterString();
+        // PilhaRemoverCaracterRepetido.RemoverCaracterRepetido();
         
     }
 }
